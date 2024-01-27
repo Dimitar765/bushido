@@ -1,0 +1,20 @@
+{
+    "treneri": [
+        {
+            "id": 1,
+            "name": "Uroš Jovanović",
+            "description": "1.DAN, rođen 21.07.2001. godine u Beogradu. Karateom se bavi od 2009. godine (karate klub 'Novi Beograd', mr Marko Nicović). Višestruki osvajač kako domaćih tako i međunarodnih medalja.",
+            "achievements": ["Priznanje 2012.", "Priznanje 2017."]
+        },
+        {
+            "id": 2,
+            "name": "Marko Makić",
+            "description": "1.DAN, rođen 09.01.1998. godine u Beogradu. Karateom se bavi od 2009. godine (karate klub 'Novi Beograd', mr Marko Nicović). Višestruki osvajač kako domaćih tako i međunarodnih medalja."
+        },
+        {
+            "id": 3,
+            "name": "Aleksandar Makić",
+            "description": "1.DAN, rođen 09.01.1998. godine u Beogradu. Karateom se bavi od 2009. godine (karate klub 'Novi Beograd', mr Marko Nicović). Višestruki osvajač kako domaćih tako i međunarodnih medalja."
+        }
+    ]
+}
